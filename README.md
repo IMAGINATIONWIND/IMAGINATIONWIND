@@ -1,6 +1,5 @@
 # 💫 About Me:
-i am sushant kumar , i am a ug student pursuing btech in cse , i am looking to collaborate with tech makers and people who love to solve problems , i like reading books
-
+Hi, I’m Sushant Kumar! 👋 I’m currently a B.Tech CSE student with a passion for building innovative solutions. 🚀 I’m looking to collaborate with fellow tech makers and problem-solvers who are driven to make an impact. 💡 When I’m not coding, you’ll likely find me diving into a great book. 📚 Let’s connect and build something amazing together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SUSHANT KUMAR) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kumar_cse27955) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:creatoralmighty13@gmail.com  ) 
